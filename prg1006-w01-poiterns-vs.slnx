@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="prg1006-w01-poiterns-vs.vcxproj" />
+  <Project Path="prg1006-w01-poiterns-vs.vcxproj" Id="9a8ac227-20da-48aa-953e-5d93aa66bfdb" />
 </Solution>
